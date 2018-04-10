@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1523365573 source:c:\users\micha\documents\code blocks\matrixoperations\main.cpp
+	<iostream>
+	"head.hpp"
+
+1523365573 c:\users\micha\documents\code blocks\matrixoperations\head.hpp
+	<vector>
+
+1523365573 source:c:\users\micha\documents\code blocks\matrixoperations\body.cpp
+	"head.hpp"
+	<vector>
+
